@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1666470356 source:c:\users\dante\desktop\arbolestdafin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arboles.h"
+	<string.h>
+
+1666471908 c:\users\dante\desktop\arbolestdafin\arboles.h
+
